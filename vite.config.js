@@ -16,7 +16,7 @@ export default defineConfig({
       injectRegister: 'auto', 
 
       pwaAssets: {
-        disabled: false,
+        disabled: true,
         config: true,
       },
 
